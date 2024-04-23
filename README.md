@@ -8,12 +8,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 👋 Hi, I’m Peace Oloruntoba... ( aka Prof Prince Peace )
-- 👀 I’m interested in working with Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
-- 🌱 I’m currently learning new tech stacks and working over my skills.
-- 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python and PHP or any basic Software Development Project.
+- 👋 Hi, I’m Peace Oloruntoba... PeaceCodes.
+- 👀 I’m interested in working on Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
+- 🌱 I’m currently learning Blockchain development and AI/ML.
+- 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python, Typescript and PHP or any basic Software Development Project.
 - 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at [https://www.linkedin.com/in/peasca-inc/](https://www.linkedin.com/in/peasca-inc/)
-- 😁 Fun Fact: ```Did you know that the first computer mouse was made of wood?```
+- 😁 Fun Fact: ```I love me.```
 
 <img src="assets/light.gif">
 
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/peasca-inc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/PeaceEdgeTech"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/PeaceOloruntoba"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/peaceedgetech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/peace__idan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ## 💻 Tech Stack:
