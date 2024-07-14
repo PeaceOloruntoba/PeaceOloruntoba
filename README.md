@@ -10,8 +10,8 @@
 
 - 👋 Hi, I’m Peace Oloruntoba... PeaceCodes.
 - 👀 I’m interested in working on Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
-- 🌱 I’m currently learning Blockchain development and AI/ML.
-- 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python, Typescript and PHP or any basic Software Development Project.
+- 🌱 I’m an aspiring Software Engineer.
+- 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python, Typescript and PHP or any Software Development Project.
 - 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at [https://www.linkedin.com/in/peasca-inc/](https://www.linkedin.com/in/peasca-inc/)
 - 😁 Fun Fact: ```I love me.```
 
