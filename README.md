@@ -12,7 +12,7 @@
 - 👀 I’m interested in working on Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 - 🌱 I’m an aspiring Software Engineer.
 - 💞️ I’m looking to collaborate on projects of Web Development, JavaScript, Python, Typescript and PHP or any Software Development Project.
-- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at [https://www.linkedin.com/in/peasca-inc/](https://www.linkedin.com/in/peasca-inc/)
+- 📫 You can reach out to me at peaceoloruntoba22@gmail.com or drop a message at [https://wa.me/qr/NM4HHGNDVGA4C1] (https://wa.me/qr/NM4HHGNDVGA4C1)
 - 😁 Fun Fact: ```I love me.```
 
 <img src="assets/light.gif">
